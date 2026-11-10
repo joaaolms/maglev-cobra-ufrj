@@ -1,0 +1,1 @@
+\# Criar o ambiente virtual isolado python -m venv venv # Ativar o ambiente virtual (Windows PowerShell) .\\venv\\Scripts\\Activate.ps1

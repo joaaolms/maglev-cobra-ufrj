@@ -1,0 +1,7 @@
+# Ambiente virtual 
+maglevcobrasimulvenv/ ENV/ 
+# Arquivos do Python 
+__pycache__/ 
+*.pyc 
+# Configurações do VS Code 
+.vscode/
