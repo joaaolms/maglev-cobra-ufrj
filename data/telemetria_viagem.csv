@@ -1,0 +1,7 @@
+sucesso,distancia_m,tempo_s,velocidade_kmh,consumo_kwh,altura_levitacao_mm,nivel_ln2_restante_l,massa_total_kg,sentido,estacao_origem,estacao_destino,id_modulo
+True,2400.0,192.0,45.0,4.675,3.0,40.4,1950.0,IDA,Reitoria,Centro de Tecnologia (CT),Cobra-01
+True,2600.0,208.0,45.0,5.065,3.0,30.0,2300.0,IDA,Centro de Tecnologia (CT),EEFD / Educação Física,Cobra-01
+True,400.0,32.0,45.0,0.779,3.0,28.4,2650.0,IDA,EEFD / Educação Física,Hospital Universitário (HU),Cobra-01
+True,400.0,32.0,45.0,0.779,3.0,26.8,3000.0,VOLTA,Hospital Universitário (HU),EEFD / Educação Física,Cobra-01
+True,2600.0,208.0,45.0,5.065,3.0,16.4,3350.0,VOLTA,EEFD / Educação Física,Centro de Tecnologia (CT),Cobra-01
+True,2400.0,192.0,45.0,4.675,3.0,6.8,3350.0,VOLTA,Centro de Tecnologia (CT),Reitoria,Cobra-01

@@ -1,7 +1,13 @@
 # Ambiente virtual 
-maglevcobrasimulvenv/ ENV/ 
+maglevcobrasimulvenv/
+.venv/
+
 # Arquivos do Python 
 __pycache__/ 
 *.pyc 
+
 # Configurações do VS Code 
 .vscode/
+
+# Logs e dados temporários
+*.log
